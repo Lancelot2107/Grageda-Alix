@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Student Profile Card: Lance</title>
+    <title>Student Profile Card: Alix</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="card">
         <div class="card-info">
             <div class="card-image">
-                <img src="https://m.gettywallpapers.com/wp-content/uploads/2022/08/Ken-Kaneki-4k-Wallpaper.jpg" alt="Kaneki">
+                <img src="https://i.pinimg.com/736x/08/a6/61/08a661eb8cca1b717ed75c8489d7c2de.jpg" alt="Kaneki">
             </div>
             <div>
-                <h2 class="card-name">Lance</h2>
-                <p class="card-title">Anteiku VIP</p>
+                <h2 class="card-name">Alix</h2>
+                <p class="card-title">Wano</p>
                 <div class="social-icons">
                     <a href="#" class="social-icon" aria-label="Github"><i class="fab fa-github"></i></a>
                     <a href="#" class="social-icon" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
@@ -25,7 +25,7 @@
             </div>
             <div>
                 <p class="card-description">
-                  "what is a 1000 minus 07?"
+                  "boku wa ODEN!"
                 <div class="button-container">
                     <a href="mailto:hutao@me.co" class="action-button">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 8 18-5-18 5v10h18v-10"/><path d="m3 8 6 5"/><path d="m21 3-6 5"/></svg>
