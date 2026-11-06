@@ -29,7 +29,7 @@
                 <div class="button-container">
                     <a href="mailto:hutao@me.co" class="action-button">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 8 18-5-18 5v10h18v-10"/><path d="m3 8 6 5"/><path d="m21 3-6 5"/></svg>
-                       if a book was written about me, it would be tragedy.
+                       I don't care how many thousands come for my head! Kozuki Oden will never bow to you!.
                     </a>
                 </div>
             </div>
