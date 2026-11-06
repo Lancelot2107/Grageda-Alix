@@ -3,18 +3,18 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Profile Card</title>
+    <title>Student Profile Card</title>
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
     <div class="card">
         <div class="card-info">
             <div class="card-image">
-                <img src="./Mavuika.jpg" alt="Hu Tao">
+                <img src="https://m.gettywallpapers.com/wp-content/uploads/2022/08/Ken-Kaneki-4k-Wallpaper.jpg" alt="Kaneki">
             </div>
             <div>
-                <h2 class="card-name">Mavuika</h2>
-                <p class="card-title">Pyro Archon</p>
+                <h2 class="card-name">Lance</h2>
+                <p class="card-title">Anteiku VIP</p>
                 <div class="social-icons">
                     <a href="#" class="social-icon" aria-label="Github"><i class="fab fa-github"></i></a>
                     <a href="#" class="social-icon" aria-label="LinkedIn"><i class="fab fa-linkedin-in"></i></a>
@@ -25,11 +25,11 @@
             </div>
             <div>
                 <p class="card-description">
-                    Now, our journey continues, and a new chapter awaits. As the current <strong>Pyro Archon</strong>, allow me, Mavuika, to light your way forward.
+                  "what is a 1000 minus 07?"
                 <div class="button-container">
-                    <a href="mailto:hutao@me.com" class="action-button">
+                    <a href="mailto:hutao@me.co" class="action-button">
                         <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="m3 8 18-5-18 5v10h18v-10"/><path d="m3 8 6 5"/><path d="m21 3-6 5"/></svg>
-                        Ride with Me to Victory!
+                       if a book was written about me, it would be tragedy.
                     </a>
                 </div>
             </div>
